@@ -1,0 +1,4 @@
+﻿  Project1.cpp
+C:\Users\jaisu\OneDrive\Desktop\CS4200_AI\jai_sutaria_4200p1\Project1\Project1\Project1.cpp(96,23): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\jaisu\OneDrive\Desktop\CS4200_AI\jai_sutaria_4200p1\Project1\Project1\Project1.cpp(124,27): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  Project1.vcxproj -> C:\Users\jaisu\OneDrive\Desktop\CS4200_AI\jai_sutaria_4200p1\Project1\x64\Debug\Project1.exe
